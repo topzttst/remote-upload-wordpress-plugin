@@ -50,6 +50,5 @@ Yes.. You can upload multiple files at a time.
 = How to manage files ? =
 Just go to Media library.
 
-== Screenshots ==
-1. Admin option remote upload 
+
 
